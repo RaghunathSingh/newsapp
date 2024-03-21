@@ -1,0 +1,46 @@
+
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Parts Of Rajasthan Flooded After \"Freak Weather\" Event, 13 Dead - NDTV",
+        "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+        "url": "https://www.ndtv.com/news",
+        "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+        "publishedAt": "2023-05-27T11:34:08Z",
+        "content": "If you are a climate change warrior or know someone who is doing incredible work in this space, send us your entries and we'll bring the most innovative stories to the world."
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "TIMESOFINDIA.COM",
+        "title": "CSK vs GT IPL 2023 Final: No clear favourites as Chennai Super Kings vie for supremacy against Gujarat Ti - Indiatimes.com",
+        "description": "Cricket News: The stage is set for an enthralling battle between Mahendra Singh Dhoni's Chennai Super Kings and the young and talented Shubman Gill representing the",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-vs-gt-ipl-2023-final-no-clear-favourites-as-chennai-super-kings-vie-for-supremacy-against-gujarat-titans/articleshow/100547809.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-100547756,width-1070,height-580,imgsize-110460,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-05-27T08:14:00Z",
+        "content": "MS Dhoni's CSK: Why Chennai Super Kings Are The Most Consistent Team In IPL History"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT Sports Desk",
+        "title": "No Kohli, Shubman Gill in Sehwag's top 5 batters of IPL 2023, one surprise pick - Hindustan Times",
+        "description": "Virender Sehwag picked his top-five batters for IPL 2023 and the list didn't include Shubman Gill and Virat Kohli. | Cricket",
+        "url": "https://www.hindustantimes.com/cricket/no-virat-kohli-shubman-gill-in-sehwags-top-5-batters-of-ipl-2023-two-uncapped-players-only-one-from-overseas-101685172429468.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/05/27/1600x900/ANI-20230313224-0_1685086988379_1685172554386.jpg",
+        "publishedAt": "2023-05-27T07:32:37Z",
+        "content": "With IPL 2023 coming to a wrap, Chennai Super Kings face Gujarat Titans in the final, at the Narendra Modi Stadium in Ahmedabad on Sunday. The ongoing season saw GT, CSK, Lucknow Super Giants and Mum… [+2368 chars]"
+      }
+    ]
+  }
